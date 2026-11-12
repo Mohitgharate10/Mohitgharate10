@@ -1,16 +1,16 @@
-## Hi there 👋
+### Full-stack developer who ships
 
-<!--
-**Mohitgharate10/Mohitgharate10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Work**
+- [Toornify](https://toornify.com) - admin dashboard, user management and real-time platform features (React, Next.js, Node.js, PostgreSQL, WebSockets)
 
-Here are some ideas to get you started:
+**Projects**
+- [Rush Rider](https://github.com/Mohitgharate10/rushrider) - physics dirt bike game ridden across live crypto charts (React, TypeScript, Canvas)
+- [NGO Platform](https://ngo-platform-r52v.onrender.com) - donations, volunteers and event management for NGOs (MERN, Razorpay, JWT)
+- [Watchlist-Simplified](https://watchlist-simplified.onrender.com) - film and series tracker with stats dashboard (React, Express, PostgreSQL, Drizzle)
+- [DevForge](https://devforge-web-8bv4.vercel.app/) - freelance marketplace prototype with milestone escrow experiment (Next.js, Prisma, PostgreSQL, Solidity) (under development)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Also**
+- Data Analytics Intern at NIELIT Daman - Python, Pandas, NumPy
+- B.E. Information Technology, class of 2027
+
+most active on [LinkedIn](https://www.linkedin.com/in/meghraj-gharate-a5212b316) or mohitgharate0@gmail.com
